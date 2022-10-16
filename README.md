@@ -47,7 +47,7 @@ class WhoAmI:
 		'Working Out',
 		'Watching Anime & Web Series',
 		'Being up all Night chasing that ONE BUG...',
-		'and Learning/Exploring New Techs...'
+		'Learning/Exploring New Techs...'
 	]
 
 def getCity():
