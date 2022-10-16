@@ -57,6 +57,7 @@ def Ambitions():
 	Live_Like_Golden()
 # Assume 10 more awesome ambitions here ;)
 
+
 ## Other Stuff
 - :octocat: [My Resume](https://drive.google.com/file/d/1t2N2iKb4LIrfEysDHYgIijyPvBJlQmE6/view?usp=sharing)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it
