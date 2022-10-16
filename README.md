@@ -17,7 +17,7 @@
 work, attention to details and excellent organizational skills. I seek a company that will help me contribute to its
 development while concurrently aiding both my Personal and Professional Growth.
 * Started learning DSA & eXPLORING Open Source !!
-* I'm currently working on 🔭 building **PYTHON-DJANGO-APPs** and working up on polishing my skills 🌱 in
+* I'm currently working / building **PYTHON-DJANGO-APPs** and polishing my skills 🌱 in
 **DATA STRUCTURE Programming**.
 
 ## :computer: Technologies I Love 
