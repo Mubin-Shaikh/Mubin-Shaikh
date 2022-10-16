@@ -4,9 +4,11 @@
 
 <img src='/images/matrix.gif' alt='Awesome Matrix Code' align='right' />
 
-[![Linkedin Badge](https://img.shields.io/badge/-MubinAttar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/mubin-attar-53223716a)] (linkedin.com/in/mubin-attar-53223716a) &ensp;
-[![Gmail Badge](https://img.shields.io/badge/-sk.mubinattar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sk.mubinattar@gmail.com)](mailto:sk.mubinattar@gmail.com) &ensp;
-![Twitter URL](https://img.shields.io/twitter/url?label=Mubin%20Attar&style=social&url=https%3A%2F%2Ftwitter.com%2Fskmubin313) &ensp;
+[![Linkedin Badge](https://img.shields.io/badge/-MubinAttar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/mubin-attar-53223716a)](linkedin.com/in/mubin-attar-53223716a)
+&ensp;
+[![Gmail Badge](https://img.shields.io/badge/-sk.mubinattar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sk.mubinattar@gmail.com)](mailto:sk.mubinattar@gmail.com)
+&ensp;
+![Twitter URL](https://img.shields.io/twitter/url?label=Mubin%20Attar&style=social&url=https%3A%2F%2Ftwitter.com%2Fskmubin313)
 
 
 <div style="text-align: right">There are 2 types of people in the world. One who get Binary and one who dosen't.. </div>
