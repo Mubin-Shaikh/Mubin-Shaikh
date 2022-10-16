@@ -16,8 +16,7 @@
 work, attention to details and excellent organizational skills. I seek a company that will help me contribute to its
 development while concurrently aiding both my Personal and Professional Growth.
 * Started learning DSA & eXPLORING Open Source !!
-* I'm currently working / building **PYTHON-DJANGO-APPs** and polishing my skills 🌱 in
-**DATA STRUCTURE Programming**.
+* I'm currently working / building / polishing my skills 🌱 in **PYTHON-DJANGO-APPs** and learning **DATA STRUCTURE Programming**.
 
 ## :computer: Technologies I Love 
 
@@ -38,28 +37,25 @@ development while concurrently aiding both my Personal and Professional Growth.
 ## Who am I?
 ```python
 class WhoAmI:
-user = 'Mubin Shaikh
-current_work = 'Writing code'
-hobbies = [
-'Hanging Out With Freinds',
-'Working Out'
-'Watching Anime & Web Series',
-'Being up all Night chasing that ONE BUG...',
-'and Learning/Exploring New Techs...'
-]
+	user = 'Mubin Shaikh
+	current_work = 'Writing code'
+	hobbies = [
+		'Hanging Out With Freinds',
+		'Working Out'
+		'Watching Anime & Web Series',
+		'Being up all Night chasing that ONE BUG...',
+		'and Learning/Exploring New Techs...'
+	]
 
 def getCity():
-return Pune_India()
+	return Pune_India()
 
 def Ambitions():
-Learn_British_English()
-Become_Pro_OpenSourceContributor()
-Become_Financial_Smart()
-Live_Like_Golden()
+	Learn_British_English()
+	Become_Pro_OpenSourceContributor()
+	Become_Financial_Smart()
+	Live_Like_Golden()
 # Assume 10 more awesome ambitions here ;)
-
-```
-
 
 ## Other Stuff
 - :octocat: [My Resume](https://drive.google.com/file/d/1t2N2iKb4LIrfEysDHYgIijyPvBJlQmE6/view?usp=sharing)
