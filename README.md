@@ -22,7 +22,8 @@ development while concurrently aiding both my Personal and Professional Growth.
 
 ## :computer: Technologies I Love 
 
-* Frontend and Backend Web Development
+* Frontend
+* Backend Web Development
 * Machine Learning
 * Data Science
 
@@ -43,7 +44,7 @@ class WhoAmI:
 	current_work = 'Writing code'
 	hobbies = [
 		'Hanging Out With Freinds',
-		'Working Out'
+		'Working Out',
 		'Watching Anime & Web Series',
 		'Being up all Night chasing that ONE BUG...',
 		'and Learning/Exploring New Techs...'
