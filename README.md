@@ -62,7 +62,7 @@ def Ambitions():
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
- 
+
 
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1t2N2iKb4LIrfEysDHYgIijyPvBJlQmE6/view?usp=sharing)
