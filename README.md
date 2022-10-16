@@ -1,5 +1,4 @@
-## Hey, [Mubin here!](https://mubinattar.netlify.app/) <img
-	src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Mubin here!](https://mubinattar.netlify.app/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to My Humble Abode in the Digital World..</h1>
 
