@@ -22,9 +22,9 @@
 ## :computer: Tech-Stack I Carry...  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&layout=compact"/>
 
-<img src='/images/c-original.svg' width='30' /> &ensp; <img src='/images/cpp.svg' width='30' /> &ensp; <img src='/images/python2.png'
-	height='30' /> &ensp; <img src='/images/html.svg' width='30' /> &ensp; <img src='/images/css.svg' width='30' /> &ensp; <img
-	src='/images/js.svg' width='30' /> &ensp; <img src='/images/bootstrap.svg' width='33' /> &ensp;
+<img src='/images/c-original.svg' width='50' /> &ensp; <img src='/images/cpp.svg' width='50' /> &ensp; <img src='/images/python2.png'
+	height='50' /> &ensp; <img src='/images/html.svg' width='50' /> &ensp; <img src='/images/css.svg' width='50' /> &ensp; <img
+	src='/images/js.svg' width='50' /> &ensp; <img src='/images/bootstrap.svg' width='50' /> &ensp; <img src='/images/django.svg' width='50' /> &ensp; <img src='/images/sql.svg' width='50' /> &ensp;
 
 ## Who am I?
 ```python
