@@ -22,11 +22,7 @@
 
 ## :computer: Tech-Stack I Carry...  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&layout=compact">
-<img src='/images/c-original.svg' width='30' /> &ensp; <img src='/images/cpp.svg' width='30' /> &ensp; <img src='/images/python2.png'
-	height='30' /> &ensp; <img src='/images/html.svg' width='30' /> &ensp; <img src='/images/css.svg' width='30' /> &ensp; <img
-	src='/images/js.svg' width='30' /> &ensp; <img src='/images/bootstrap.svg' width='33' /> &ensp; <img src='/images/sql.svg'
-	width='30' /> &ensp; <img src='/images/pycharm.svg' width='30' /> &ensp; <img src='/images/django.svg' height='40' /> &ensp; <img src='/images/git.svg'
-	width='30' />
+<img src='/images/c-original.svg' width='30' /> <img src='/images/cpp.svg' width='30' /> <img src='/images/python2.png' height='30' /> <img src='/images/html.svg' width='30' /> <img src='/images/css.svg' width='30' /> <img src='/images/js.svg' width='30' /> <img src='/images/bootstrap.svg' width='33' /> <img src='/images/sql.svg' width='30' /> <img src='/images/pycharm.svg' width='30' /> <img src='/images/django.svg' height='40' /> <img src='/images/git.svg' width='30' />
 
 ## Who am I?
 ```python
