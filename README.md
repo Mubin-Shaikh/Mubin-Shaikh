@@ -26,7 +26,7 @@
 	height='30' /> &ensp; <img src='/images/html.svg' width='30' /> &ensp; <img src='/images/css.svg' width='30' /> &ensp; <img
 	src='/images/js.svg' width='30' /> &ensp; <img src='/images/bootstrap.svg' width='33' /> &ensp; <img src='/images/sql.svg'
 	width='30' /> &ensp; <img src='/images/pycharm.svg' width='30' /> &ensp; <img src='/images/django.svg' height='40' /> &ensp; <img src='/images/git.svg'
-	width='30' /> &ensp; />
+	width='30' />
 
 ## Who am I?
 ```python
