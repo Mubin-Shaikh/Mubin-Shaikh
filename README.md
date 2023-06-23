@@ -20,28 +20,11 @@
 * Moreover, I am dedicated to staying updated with the latest industry trends and technologies. I am actively exploring DevOps tools and techniques, such as implementing CI/CD pipelines, utilizing Docker and Kubernetes for containerization and orchestration, leveraging Ansible for configuration management, employing Jenkins for continuous integration, and harnessing the power of AWS for cloud-based solutions.
 
 ## :computer: Tech-Stack I Carry...  
-*Frontend:
-	HTML
-	CSS
-	JavaScript
-	Bootstrap
-*Backend:
-	Python
-	Django
-	Django Rest Framework (DRF)
-	PostgreSQL
- 	Agile/Scrum
-*Networking Tools:
-	Git/Github
-*Cloud Computing:
-	Amazon Web Services (AWS)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&layout=compact">
-
-## Programming & Technologies I Use
 <img src='/images/c-original.svg' width='30' /> &ensp; <img src='/images/cpp.svg' width='30' /> &ensp; <img src='/images/python2.png'
 	height='30' /> &ensp; <img src='/images/html.svg' width='30' /> &ensp; <img src='/images/css.svg' width='30' /> &ensp; <img
-	src='/images/js.svg' width='30' /> &ensp; <img src='/images/bootstrap.svg' width='33' /> &ensp; <img src='/images/sql.svg'
+	src='/images/js.svg' width='30' /> &ensp; <img src='/images/bootstrap.svg' width='33' /> &ensp;
 
 ## Who am I?
 ```python
