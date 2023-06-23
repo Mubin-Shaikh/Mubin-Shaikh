@@ -2,7 +2,7 @@
 
 <h1>Welcome to My Interstellar Codebase:Cosmos! 🚀</h1>
 
-<img src='/images/matrix.gif' alt='Awesome Matrix Code' align='right' width='200' height='500'/>
+<img src='/images/matrix.gif' alt='Awesome Matrix Code' align='right' width='200' height='300'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MubinAttar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/mubin-attar-53223716a)](linkedin.com/in/mubin-attar-53223716a)
 &ensp;
