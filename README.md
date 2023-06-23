@@ -2,7 +2,7 @@
 
 <h1>Welcome to My Interstellar Codebase:Cosmos! 🚀</h1>
 
-<img src='/images/matrix.gif' alt='Awesome Matrix Code' align='right' width='300' height='200'/>
+<img src='/images/matrix.gif' alt='Awesome Matrix Code' align='right' width='200' height='200'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MubinAttar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/mubin-attar-53223716a)](linkedin.com/in/mubin-attar-53223716a)
 &ensp;
@@ -16,8 +16,13 @@
 ## - :octocat: Current Status :-
 
 * I am a passionate Software Engineer  with a proven track record of success. I bring a strong skill set and expertise in Python, Django, Django REST Framework, Agile methodologies, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. My goal is to contribute to a company's development while continuously growing both personally and professionally.
+
+
 * 🌱 Currently, I am working at Linescripts Software Pvt Ltd, Gaining valuable experience in software development methodologies and best practices, allowing me to deliver impactful contributions.
+
+
 * Moreover, I am dedicated to staying updated with the latest industry trends and technologies. I am actively exploring DevOps tools and techniques, such as implementing CI/CD pipelines, utilizing Docker and Kubernetes for containerization and orchestration, leveraging Ansible for configuration management, employing Jenkins for continuous integration, and harnessing the power of AWS for cloud-based solutions.
+
 
 ## :computer: Tech-Stack I Carry...  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&layout=compact"/>
