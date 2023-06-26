@@ -47,11 +47,8 @@ class WhoAmI:
     def connect(self):
         return "Let's connect and drive innovation together!"
 
-# Instantiate the class
 me = WhoAmI()
 
-# Print the summarized information
-# Print the summarized information
 summary = '\n'.join([f"{attr.capitalize()}: {getattr(me, attr)}" for attr in ['name', 'title', 'skills', 'company', 'interests']])
 print(summary)
 ```
