@@ -36,62 +36,24 @@
 class WhoAmI:
     name = 'Mubin Shaikh'
     title = 'Passionate Software Engineer'
-    skills = [
-        'Python', 'Django', 'DRF', 'HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Git', 'PostgreSQL', 'AWS'
-    ]
-    experience = 'Proven Track Record of Success'
+    skills = ['Python', 'Django', 'DRF', 'HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Git', 'PostgreSQL', 'AWS']
     company = 'Linescripts Software Pvt Ltd'
 
     def __init__(self):
-        self.interests = [
-            'Exploring Cutting-Edge Technologies',
-            'Building Scalable Web Applications',
-            'Driving Innovation through Code',
-            'Collaborating in Agile Development Environments'
-        ]
-
-    def getLocation(self):
-        return 'Pune, India'
-
-    def aspirations(self):
-        return [
-            'Continuously Expanding DevOps Expertise',
-            'Implementing Seamless CI/CD Pipelines',
-            'Utilizing Docker and Kubernetes for Efficient Containerization',
-            'Leveraging Ansible for Streamlined Configuration Management',
-            'Harnessing the Power of AWS for Cloud-Based Solutions',
-            'Enhancing Proficiency in Data Structures and Algorithms (DSA)',
-            'Contributing to Open-Source Projects'
-        ]
-
-    def strengths(self):
-        return [
-            'In-Depth Understanding of Software Development Methodologies',
-            'Expert Problem Solver and Debugger',
-            'Exceptional Team Player',
-            'Passionate about Driving Technological Advancements'
-        ]
+        self.interests = ['Exploring Technologies', 'Building Web Applications', 'Driving Innovation', 'Agile Development']
+        self.aspirations = ['DevOps', 'CI/CD Pipelines', 'Docker/Kubernetes', 'Ansible', 'AWS', 'Data Structures & Algorithms', 'Open-Source Projects']
+        self.strengths = ['Software Methodologies', 'Problem Solver', 'Team Player', 'Passionate about Technology']
 
     def connect(self):
-        return "Let's connect and explore how I can bring my expertise, passion, and commitment to drive innovation and success to your team."
-
+        return "Let's connect and drive innovation together!"
 
 # Instantiate the class
 me = WhoAmI()
 
-# Print the information using Python effectively
-print(
-    f"Name: {me.name}\n"
-    f"Title: {me.title}\n"
-    f"Skills: {', '.join(me.skills)}\n"
-    f"Experience: {me.experience}\n"
-    f"Company: {me.company}\n"
-    f"Interests: {', '.join(me.interests)}\n"
-    f"Location: {me.getLocation()}\n"
-    f"Aspirations:\n- " + '\n- '.join(me.aspirations()) +
-    f"\nStrengths:\n- " + '\n- '.join(me.strengths()) +
-    f"\n{me.connect()}"
-)
+# Print the summarized information
+# Print the summarized information
+summary = '\n'.join([f"{attr.capitalize()}: {getattr(me, attr)}" for attr in ['name', 'title', 'skills', 'company', 'interests']])
+print(summary)
 ```
 
 ## Other Stuff
