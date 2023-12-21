@@ -8,9 +8,6 @@
 &ensp;
 ![Twitter URL](https://img.shields.io/twitter/url?label=Mubin%20Attar&style=social&url=https%3A%2F%2Ftwitter.com%2Fskmubin313)
 
-
-<div style="text-align: right">There are 2 types of people in the world. One who get Binary and one who dosen't.. </div>
-
 ## - :octocat: Current Status :-
 
 * I am a passionate Software Engineer  with a proven track record of success. I bring a strong skill set and expertise in Python, Django, Django REST Framework, Agile methodologies, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. My goal is to contribute to a company's development while continuously growing both personally and professionally.
