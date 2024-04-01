@@ -34,7 +34,10 @@ I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about craftin
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | | | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) |
 
 # 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) |
+|---|---|
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mubin-Shaikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
