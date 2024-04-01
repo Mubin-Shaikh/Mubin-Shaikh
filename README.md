@@ -1,5 +1,4 @@
 # Hi 👋 there!   I'm Mubin Attar
-
 I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about crafting efficient code 🚀.
 
 # 💫 About Me:
