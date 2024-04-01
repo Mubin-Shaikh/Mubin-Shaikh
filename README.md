@@ -1,5 +1,5 @@
 # 💫💫💫 About Me:
-<br><br>    🚀🚀🚀 As a passionate Software Engineer, I bring a strong skill set to the table, including expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. With a proven track record of excellence, I craft robust, scalable, and innovative solutions to meet the diverse needs of modern businesses.
+<br>🚀🚀🚀 As a passionate Software Engineer, I bring a strong skill set to the table, including expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. With a proven track record of excellence, I craft robust, scalable, and innovative solutions to meet the diverse needs of modern businesses.
 
 ⚙️ Thriving in Agile environments, I excel in driving projects forward with efficiency and precision. From designing code structures to collaborating within cross-functional teams, I approach every challenge with enthusiasm and professionalism.
 
