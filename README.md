@@ -12,12 +12,12 @@
 👨‍💻👨‍💻👨‍💻 My goal is to excel in technical abilities while contributing meaningfully to the growth and success of the companies I work with. Driven by continuous learning, innovation, and impact, I'm excited about the opportunities ahead in software engineering.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubin-attar-53223716a)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/skmubin313)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/mubinattar)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:sk.mubinattar@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/Mubin%20Attar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/skmubinattar/practice/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/mubin-attar-53223716a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/skmubin313)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/mubinattar)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sk.mubinattar@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/Mubin%20Attar)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/skmubinattar/practice/)
+
 
 # 💻 Tech Stack:
 | **Frontend Technologies** | **Backend Technologies** | **Database Technologies** | **DevOps & Cloud Technologies** | **Others** |
