@@ -1,3 +1,7 @@
+# Hi ![Wave](https://emojicdn.elk.sh/👋) there! I'm Mubin Attar
+
+I'm a Junior Python Developer at Linescripts Software Pvt Ltd, passionate about crafting efficient code 🚀.
+
 # 💫 About Me:
 🚀 As a passionate Software Engineer, I bring a strong skill set to the table, including expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. With a proven track record of excellence, I craft robust, scalable, and innovative solutions to meet the diverse needs of modern businesses.
 
