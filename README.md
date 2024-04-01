@@ -30,13 +30,8 @@
 | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge) | | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) |
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | | | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) |
 
-#Contributions Graph
-[![Snake Game](https://github-snake-game.vercel.app/api/Mubin-Shaikh)](https://github.com/Mubin-Shaikh)
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mubin-Shaikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
