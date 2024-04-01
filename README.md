@@ -1,14 +1,9 @@
-# 💫💫💫 About Me:
-🚀🚀🚀 As a passionate Software Engineer, I bring a strong skill set to the table, including expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. With a proven track record of excellence, I craft robust, scalable, and innovative solutions to meet the diverse needs of modern businesses.
-
+# 💫 About Me:
+🚀 As a passionate Software Engineer, I bring a strong skill set to the table, including expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. With a proven track record of excellence, I craft robust, scalable, and innovative solutions to meet the diverse needs of modern businesses.
 ⚙️ Thriving in Agile environments, I excel in driving projects forward with efficiency and precision. From designing code structures to collaborating within cross-functional teams, I approach every challenge with enthusiasm and professionalism.
-
 🌐 At Linescripts Software Pvt Ltd, I'm immersed in an environment that fosters growth and learning, allowing me to refine my skills in software development methodologies and best practices.
-
 ☁️ Committed to staying at the forefront of innovation, I leverage the power of AWS to create scalable, reliable, and secure cloud-based solutions that drive business success.
-
 🔍 Passionate about DevOps principles, I explore tools like CI/CD pipelines, Docker, Kubernetes, Ansible, Jenkins, and AWS to streamline workflows and maximize efficiency.
-
 👨‍💻👨‍💻👨‍💻 My goal is to excel in technical abilities while contributing meaningfully to the growth and success of the companies I work with. Driven by continuous learning, innovation, and impact, I'm excited about the opportunities ahead in software engineering.
 
 ## 🌐 Socials:
@@ -18,7 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:sk.mubinattar@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/Mubin%20Attar)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/skmubinattar/practice/)
-
 
 # 💻 Tech Stack:
 | **Frontend Technologies** | **Backend Technologies** | **Database Technologies** | **DevOps & Cloud Technologies** | **Others** |
@@ -31,16 +25,13 @@
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | | | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) |
 
 # 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mubin-Shaikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
