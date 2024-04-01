@@ -1,5 +1,23 @@
 # 💫 About Me:
-<br><br>    I am a passionate Software Engineer with a proven track record of success. I bring a strong skill set and expertise in Python, Django, Django REST Framework, Agile methodologies, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. My goal is to contribute to a company's development while continuously growing both personally and professionally.<br><br>    🌱 Currently, I am working at Linescripts Software Pvt Ltd, Gaining valuable experience in software development methodologies and best practices, allowing me to deliver impactful contributions.<br><br>    Moreover, I am dedicated to staying updated with the latest industry trends and technologies. I am actively exploring DevOps tools and techniques, such as implementing CI/CD pipelines, utilizing Docker and Kubernetes for containerization and orchestration, leveraging Ansible for configuration management, employing Jenkins for continuous integration, and harnessing the power of AWS for cloud-based solutions.<br>
+<br><br>    🌟 Passionate Software Engineer with a track record of driving success through innovative solutions.
+
+🚀 Proficient in Python, Django, Django REST Framework, and adept at crafting robust web applications.
+
+💡 Skilled in Agile methodologies, ensuring efficient project delivery and seamless collaboration.
+
+🎨 Experienced in HTML, CSS, JavaScript, and Bootstrap, creating engaging and user-friendly interfaces.
+
+🔧 Proficient with Git for version control and PostgreSQL for database management, ensuring reliability and scalability.
+
+☁️ Familiar with AWS cloud services, adept at deploying and managing cloud-based solutions for optimal performance.
+
+💼 Currently thriving at Linescripts Software Pvt Ltd, gaining invaluable insights into software development best practices.
+
+📈 Committed to continuous growth, staying abreast of the latest industry trends and technologies.
+
+🔍 Actively exploring DevOps tools like CI/CD pipelines, Docker, Kubernetes, Ansible, Jenkins, and leveraging AWS for cutting-edge solutions.
+
+👨‍💻 Dedicated to contributing to company growth while advancing both personally and professionally.<br>
 
 
 ## 🌐 Socials:
