@@ -39,10 +39,10 @@ I'm a Junior Python Developer at Linescripts Software Pvt Ltd, passionate about 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mubin-Shaikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ DevQ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 DevM
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
