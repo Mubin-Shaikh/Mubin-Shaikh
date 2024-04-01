@@ -1,4 +1,4 @@
-# Hi 👋 there! I'm Mubin Attar
+# Hi 👋 there!   I'm Mubin Attar
 
 I'm a Junior Python Developer at Linescripts Software Pvt Ltd, passionate about crafting efficient code 🚀.
 
