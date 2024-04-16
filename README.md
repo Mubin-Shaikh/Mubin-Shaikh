@@ -44,7 +44,6 @@ I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about craftin
 ### ✍️ DevQ
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 DevM
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
