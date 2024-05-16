@@ -41,10 +41,6 @@ I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about craftin
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mubin-Shaikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ DevQ
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mubin-Shaikh&icon=0&color=0)](https://visitcount.itsvg.in)
