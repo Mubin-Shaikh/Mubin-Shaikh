@@ -1,28 +1,24 @@
-# Hi 👋 there!   I'm Mubin Attar
-I'm a Python Developer at Sevina Technology Pvt Ltd, passionate about crafting efficient code 🚀.
+# Hello there! 👋 I'm Mubin Attar
 
-# 💫 About Me:
-🚀 As a passionate Software Engineer, I bring a strong skill set to the table, including expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS. With a proven track record of excellence, I craft robust, scalable, and innovative solutions to meet the diverse needs of modern businesses.
+I'm a dedicated Python Developer at Sevina Technology Pvt Ltd, driven by a passion for crafting efficient and innovative solutions. 🚀
 
-⚙️ Thriving in Agile environments, I excel in driving projects forward with efficiency and precision. From designing code structures to collaborating within cross-functional teams, I approach every challenge with enthusiasm and professionalism.
+## 💫 About Me
 
-🌐 At Linescripts Software Pvt Ltd, I'm immersed in an environment that fosters growth and learning, allowing me to refine my skills in software development methodologies and best practices.
+As a Software Engineer, I leverage my extensive expertise in Python, Django, Django REST Framework, HTML, CSS, JavaScript, Bootstrap, Git, PostgreSQL, and AWS to build robust, scalable solutions. My focus is on delivering high-quality code and enhancing project efficiency through collaboration and agile methodologies.
 
-☁️ Committed to staying at the forefront of innovation, I leverage the power of AWS to create scalable, reliable, and secure cloud-based solutions that drive business success.
+- **Agile Enthusiast**: Thriving in Agile environments, I drive projects with precision and enthusiasm.
+- **Continuous Learner**: At Linescripts Software Pvt Ltd, I embrace growth opportunities, honing my skills in software development practices.
+- **Cloud Advocate**: Utilizing AWS, I create scalable, secure cloud-based solutions that propel business success.
+- **DevOps Practitioner**: Exploring tools like Docker, Kubernetes, CI/CD pipelines, and Jenkins to streamline workflows and maximize efficiency.
 
-🔍 Passionate about DevOps principles, I explore tools like CI/CD pipelines, Docker, Kubernetes, Ansible, Jenkins, and AWS to streamline workflows and maximize efficiency.
+## 🌐 Connect with Me
 
-👨‍💻👨‍💻👨‍💻 My goal is to excel in technical abilities while contributing meaningfully to the growth and success of the companies I work with. Driven by continuous learning, innovation, and impact, I'm excited about the opportunities ahead in software engineering.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/mubin-attar-53223716a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/skmubin313)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/mubinattar) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sk.mubinattar@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/Mubin%20Attar) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/skmubinattar/practice/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/mubin-attar-53223716a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/skmubin313)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/mubinattar)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sk.mubinattar@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/Mubin%20Attar)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/skmubinattar/practice/)
+## 💻 Tech Stack
 
-
-# 💻 Tech Stack:
 | **Frontend Technologies** | **Backend Technologies** | **Database Technologies** | **DevOps & Cloud Technologies** | **Others** |
 |---------------------------|--------------------------|---------------------------|---------------------------------|------------|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) |
@@ -32,15 +28,16 @@ I'm a Python Developer at Sevina Technology Pvt Ltd, passionate about crafting e
 | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge) | | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) |
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | | | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) |
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) |
 |---|---|
 | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
-
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Mubin-Shaikh&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Mubin-Shaikh&icon=0&color=0)](https://visitcount.itsvg.in)
