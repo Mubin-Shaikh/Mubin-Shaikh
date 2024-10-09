@@ -8,21 +8,12 @@ As a passionate Software Engineer, I leverage a comprehensive skill set to deliv
 
 - **Languages & Frameworks**: Python, Django, Django REST Framework, HTML, CSS, JavaScript
 - **Tools & Technologies**: Bootstrap, Git, PostgreSQL, AWS
-- **DevOps**: CI/CD pipelines, Docker, Kubernetes, Ansible, Jenkins
 
 ### 🚀 My Professional Journey
 
 - **Sevina Technology Pvt Ltd**: Here, I engage in dynamic projects that demand precision and creativity. My role involves designing and implementing robust solutions, driving efficiency, and collaborating with cross-functional teams to meet business needs.
 
 - **Previous Experience at Linescripts Software Pvt Ltd**: I honed my skills in software development methodologies and best practices, continuously evolving my approach to tackle challenges with enthusiasm.
-
-### 🌐 Cloud Expertise
-
-Committed to harnessing the power of AWS, I build scalable, reliable, and secure cloud-based solutions that propel business success.
-
-### 🔍 DevOps Enthusiast
-
-I am deeply invested in DevOps principles and tools, exploring technologies like Docker, Kubernetes, and Jenkins to optimize workflows and enhance operational efficiency.
 
 ### 👨‍💻 My Vision
 
