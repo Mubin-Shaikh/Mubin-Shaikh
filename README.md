@@ -38,8 +38,6 @@ Feel free to connect with me, and let’s explore how we can create impactful so
 | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge) | | | |
 | | | | | |
 
-# 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) |
 |---|---|
 | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
